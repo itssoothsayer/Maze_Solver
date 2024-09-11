@@ -9,7 +9,7 @@ The Maze Solver is a Java-based application for finding the shortest path throug
 
 ##  Getting Started
 ### Prerequisites
-Before running the Maze Solver, make sure you have the following prerequisites:
+Before running the Maze Solver, make sure that you have the following prerequisites:
 
 - Java Development Kit (JDK) 8 or later
 - Git (optional, for cloning the repository)
